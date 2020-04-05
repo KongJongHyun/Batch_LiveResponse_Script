@@ -1,0 +1,7 @@
+ F 드라이브의 볼륨: Operating System 
+ 볼륨 일련 번호: 3617-300C 
+ F:\BatchFile Script\Batch_LiveResponse_Script 디렉터리 
+2020-04-05  오후 06:50             5,150 Live_Response.bat 
+2020-04-05  오후 05:29             1,485 README.md 
+               2개 파일               6,635 바이트 
+               0개 디렉터리  185,520,021,504 바이트 남음 

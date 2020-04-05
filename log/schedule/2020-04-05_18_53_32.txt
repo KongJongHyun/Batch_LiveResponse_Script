@@ -1,0 +1,160 @@
+AdobeGCInvoker-1.0                       2020-04-05 오후 7:45:0 준비            
+ceuueclrnnrs                             N/A                    준비            
+GoogleUpdateTaskMachineCore              2020-04-05 오후 11:35: 준비            
+GoogleUpdateTaskMachineUA                2020-04-05 오후 7:35:1 준비            
+NvBatteryBoostCheckOnLogon_{B2FE1952-018 N/A                    준비            
+NvDriverUpdateCheckDaily_{B2FE1952-0186- 2020-04-06 오후 12:25: 준비            
+NVIDIA GeForce Experience SelfUpdate_{B2 N/A                    준비            
+NvNodeLauncher_{B2FE1952-0186-46C3-BAEC- N/A                    준비            
+NvProfileUpdaterDaily_{B2FE1952-0186-46C 2020-04-06 오후 12:25: 준비            
+NvProfileUpdaterOnLogon_{B2FE1952-0186-4 N/A                    준비            
+NvTmRep_CrashReport1_{B2FE1952-0186-46C3 2020-04-06 오후 12:25: 준비            
+NvTmRep_CrashReport2_{B2FE1952-0186-46C3 2020-04-06 오후 6:25:5 준비            
+NvTmRep_CrashReport3_{B2FE1952-0186-46C3 2020-04-06 오전 12:25: 준비            
+NvTmRep_CrashReport4_{B2FE1952-0186-46C3 2020-04-06 오전 6:25:5 준비            
+User_Feed_Synchronization-{88A5BD48-276D 2020-04-05 오후 11:44: 준비            
+AppleSoftwareUpdate                      2020-04-07 오후 5:19:0 준비            
+VSIX Auto Update 14                      2020-04-06 오전 4:40:5 준비            
+.NET Framework NGEN v4.0.30319           N/A                    준비            
+.NET Framework NGEN v4.0.30319 64        N/A                    준비            
+AD RMS Rights Policy Template Management N/A                    준비            
+EDP Policy Manager                       N/A                    준비            
+Microsoft Compatibility Appraiser        2020-04-06 오전 3:00:4 준비            
+ProgramDataUpdater                       N/A                    준비            
+StartupAppTask                           N/A                    준비            
+appuriverifierdaily                      N/A                    준비            
+appuriverifierinstall                    N/A                    준비            
+CleanupTemporaryState                    N/A                    준비            
+DsSvcCleanup                             N/A                    준비            
+Proxy                                    N/A                    준비            
+BitLocker Encrypt All Drives             N/A                    준비            
+BitLocker MDM policy Refresh             N/A                    준비            
+UninstallDeviceTask                      N/A                    준비            
+BgTaskRegistrationMaintenanceTask        N/A                    준비            
+AikCertEnrollTask                        N/A                    준비            
+CryptoPolicyTask                         N/A                    준비            
+KeyPreGenTask                            N/A                    준비            
+SystemTask                               N/A                    준비            
+UserTask                                 N/A                    준비            
+UserTask-Roam                            N/A                    준비            
+ProactiveScan                            N/A                    준비            
+SyspartRepair                            N/A                    준비            
+CreateObjectTask                         N/A                    준비            
+Consolidator                             2020-04-06 오전 12:00: 준비            
+UsbCeip                                  N/A                    준비            
+Data Integrity Scan                      2020-04-14 오전 2:29:2 준비            
+Data Integrity Scan for Crash Recovery   N/A                    준비            
+ScheduledDefrag                          N/A                    준비            
+Device                                   2020-04-06 오전 3:54:1 준비            
+Metadata Refresh                         N/A                    준비            
+HandleCommand                            N/A                    준비            
+HandleWnsCommand                         N/A                    준비            
+LocateCommandUserSession                 N/A                    준비            
+RegisterDeviceAccountChange              N/A                    준비            
+RegisterDeviceLocationRightsChange       N/A                    준비            
+RegisterDevicePeriodic24                 2020-04-06 오후 9:43:4 준비            
+RegisterDevicePolicyChange               N/A                    준비            
+RegisterDeviceProtectionStateChanged     N/A                    준비            
+RegisterDeviceSettingChange              N/A                    준비            
+RegisterDeviceWnsFallback                2020-05-03 오전 4:09:4 준비            
+RegisterUserDevice                       N/A                    준비            
+RecommendedTroubleshootingScanner        N/A                    준비            
+Scheduled                                N/A                    준비            
+DirectXDatabaseUpdater                   N/A                    준비            
+DXGIAdapterCache                         N/A                    준비            
+SilentCleanup                            N/A                    준비            
+Diagnostics                              N/A                    준비            
+StorageSense                             N/A                    준비            
+dusmtask                                 N/A                    준비            
+EDP App Launch Task                      N/A                    준비            
+EDP Auth Task                            N/A                    준비            
+EDP Inaccessible Credentials Task        N/A                    준비            
+StorageCardEncryption Task               N/A                    준비            
+ExploitGuard MDM policy Refresh          N/A                    준비            
+DmClient                                 N/A                    준비            
+DmClientOnScenarioDownload               N/A                    준비            
+File History (maintenance mode)          N/A                    준비            
+ReconcileFeatures                        N/A                    준비            
+RefreshCache                             2020-04-05 오후 8:50:4 준비            
+FODCleanupTask                           N/A                    준비            
+ScanForUpdates                           2020-04-07 오전 4:17:1 준비            
+ScanForUpdatesAsUser                     N/A                    준비            
+SmartRetry                               2020-04-05 오후 7:11:3 준비            
+Installation                             N/A                    준비            
+ReconcileLanguageResources               N/A                    준비            
+TempSignedLicenseExchange                N/A                    준비            
+Notifications                            N/A                    준비            
+WindowsActionDialog                      N/A                    준비            
+WinSAT                                   N/A                    준비            
+Cellular                                 N/A                    준비            
+Logon                                    N/A                    준비            
+MapsToastTask                            N/A                    준비            
+ProcessMemoryDiagnosticEvents            N/A                    준비            
+RunFullMemoryDiagnostic                  N/A                    준비            
+MNO Metadata Parser                      N/A                    준비            
+LPRemove                                 N/A                    준비            
+GatherNetworkInfo                        N/A                    준비            
+WiFiTask                                 N/A                    준비            
+Secure-Boot-Update                       N/A                    준비            
+Sqm-Tasks                                N/A                    준비            
+Device Install Group Policy              N/A                    준비            
+Device Install Reboot Required           N/A                    준비            
+Sysprep Generalize Drivers               N/A                    준비            
+AnalyzeSystem                            N/A                    준비            
+EduPrintProv                             N/A                    준비            
+Registration                             2020-04-06 오후 3:14:0 준비            
+MobilityManager                          N/A                    준비            
+RegIdleBackup                            N/A                    준비            
+RemoteAssistanceTask                     N/A                    준비            
+StartComponentCleanup                    N/A                    준비            
+BackgroundUploadTask                     N/A                    준비            
+NetworkStateChangeTask                   N/A                    준비            
+CreateObjectTask                         N/A                    준비            
+FamilySafetyMonitor                      N/A                    준비            
+FamilySafetyRefreshTask                  N/A                    준비            
+IndexerAutomaticMaintenance              N/A                    준비            
+SvcRestartTask                           2120-03-12 오후 3:13:3 준비            
+SpaceAgentTask                           N/A                    준비            
+SpaceManagerTask                         N/A                    준비            
+HeadsetButtonPress                       N/A                    준비            
+SpeechModelDownloadTask                  2020-04-06 오전 2:18:5 준비            
+MaintenanceTasks                         N/A                    준비            
+Storage Tiers Management Initialization  N/A                    준비            
+EnableLicenseAcquisition                 N/A                    준비            
+ResPriStaticDbSync                       N/A                    준비            
+WsSwapAssessmentTask                     N/A                    준비            
+SR                                       N/A                    준비            
+Interactive                              N/A                    준비            
+MsCtfMonitor                             N/A                    준비            
+ForceSynchronizeTime                     N/A                    준비            
+SynchronizeTime                          N/A                    준비            
+SynchronizeTimeZone                      N/A                    준비            
+Tpm-HASCertRetr                          N/A                    준비            
+Tpm-Maintenance                          N/A                    준비            
+Backup Scan                              2020-04-18 오후 4:08:3 준비            
+Schedule Scan                            2020-04-06 오후 12:36: 준비            
+Schedule Scan Static Task                N/A                    준비            
+Universal Orchestrator Start             2020-04-06 오전 4:42:0 준비            
+UpdateModelTask                          N/A                    준비            
+USO_UxBroker                             2020-04-06 오후 4:54:0 준비            
+UPnPHostConfig                           N/A                    준비            
+Usb-Notifications                        N/A                    준비            
+PerformRemediation                       2020-04-12 오전 4:39:3 준비            
+WiFiTask                                 N/A                    준비            
+ResolutionHost                           N/A                    준비            
+Windows Defender Cache Maintenance       N/A                    준비            
+Windows Defender Cleanup                 N/A                    준비            
+Windows Defender Scheduled Scan          N/A                    준비            
+Windows Defender Verification            N/A                    준비            
+QueueReporting                           2020-04-05 오후 9:14:4 준비            
+BfeOnServiceStartTypeChange              N/A                    준비            
+UpdateLibrary                            N/A                    준비            
+Calibration Loader                       N/A                    준비            
+Scheduled Start                          2020-04-05 오후 7:13:5 준비            
+sihpostreboot                            N/A                    준비            
+CDSSync                                  N/A                    준비            
+WIM-Hash-Management                      N/A                    준비            
+Work Folders Logon Synchronization       N/A                    준비            
+Work Folders Maintenance Work            N/A                    준비            
+NotificationTask                         N/A                    준비            
+XblGameSaveTask                          N/A                    준비            

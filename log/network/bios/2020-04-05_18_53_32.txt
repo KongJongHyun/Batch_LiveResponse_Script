@@ -1,0 +1,52 @@
+      
+ VMware Network Adapter VMnet1: 
+ 노드 IpAddress: [192.168.134.1] 범위 ID: [] 
+                 NetBIOS 로컬 이름 테이블 
+        이름               유형         상태 
+     --------------------------------------------- 
+     WORKGROUP      <00>  GROUP       등록됨      
+     DESKTOP-S53VTJ2<00>  UNIQUE      등록됨      
+     DESKTOP-S53VTJ2<20>  UNIQUE      등록됨      
+      
+ VMware Network Adapter VMnet8: 
+ 노드 IpAddress: [192.168.248.1] 범위 ID: [] 
+                 NetBIOS 로컬 이름 테이블 
+        이름               유형         상태 
+     --------------------------------------------- 
+     WORKGROUP      <00>  GROUP       등록됨      
+     DESKTOP-S53VTJ2<00>  UNIQUE      등록됨      
+     DESKTOP-S53VTJ2<20>  UNIQUE      등록됨      
+      
+ vEthernet (Default Switch): 
+ 노드 IpAddress: [192.168.95.209] 범위 ID: [] 
+                 NetBIOS 로컬 이름 테이블 
+        이름               유형         상태 
+     --------------------------------------------- 
+     WORKGROUP      <00>  GROUP       등록됨      
+     DESKTOP-S53VTJ2<00>  UNIQUE      등록됨      
+     DESKTOP-S53VTJ2<20>  UNIQUE      등록됨      
+      
+ 이더넷: 
+ 노드 IpAddress: [0.0.0.0] 범위 ID: [] 
+     캐시에 이름 없음 
+      
+ Bluetooth 네트워크 연결: 
+ 노드 IpAddress: [0.0.0.0] 범위 ID: [] 
+     캐시에 이름 없음 
+      
+ Wi-Fi: 
+ 노드 IpAddress: [172.30.42.185] 범위 ID: [] 
+                 NetBIOS 로컬 이름 테이블 
+        이름               유형         상태 
+     --------------------------------------------- 
+     WORKGROUP      <00>  GROUP       등록됨      
+     DESKTOP-S53VTJ2<00>  UNIQUE      등록됨      
+     DESKTOP-S53VTJ2<20>  UNIQUE      등록됨      
+      
+ 로컬 영역 연결* 1: 
+ 노드 IpAddress: [0.0.0.0] 범위 ID: [] 
+     캐시에 이름 없음 
+      
+ 로컬 영역 연결* 2: 
+ 노드 IpAddress: [0.0.0.0] 범위 ID: [] 
+     캐시에 이름 없음 
